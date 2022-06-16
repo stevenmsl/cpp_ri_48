@@ -19,6 +19,8 @@ using namespace std;
     the matrix into two halves vertically
   - this is an observation; yet
     to find the proof
+  - time complexity: O(n^2)
+    space complexity: O(1)
 */
 
 void Solution::rotate(vector<vector<int>> &matrix)
